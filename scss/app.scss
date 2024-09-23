@@ -1,0 +1,19 @@
+.app {
+  width: 100%;
+
+  column-count: 1;
+
+  @media (min-width: 80rem) and (max-width: 120rem) {
+    column-count: 2;
+  }
+
+  @media  (min-width: 120rem) {
+    column-count: 3;
+  }
+
+  padding: 1rem;
+
+  > div:not(:first-child) {
+	  margin-top: 1rem;
+  }
+}
