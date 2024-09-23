@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 242.1246 212.09"
+   version="1.1"
+   sodipodi:docname="scala-full-color.svg"
+   width="242.1246"
+   height="212.09"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs11">
+    <rect
+       x="30.581051"
+       y="43.436779"
+       width="133.62166"
+       height="158.35919"
+       id="rect11" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:clip-to-page="false"
+     showguides="true"
+     inkscape:zoom="6.6541001"
+     inkscape:cx="246.84029"
+     inkscape:cy="102.4932"
+     inkscape:window-width="3836"
+     inkscape:window-height="2117"
+     inkscape:window-x="3840"
+     inkscape:window-y="39"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1">
+    <sodipodi:guide
+       position="86.112319,185.64014"
+       orientation="0,-1"
+       id="guide16"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="123.53286,26.940994"
+       orientation="0,-1"
+       id="guide17"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <title
+     id="title1">scala-full-color</title>
+  <path
+     d="M 0.19772919,78.92 C 2.0477292,81.47 17.647729,86.28 40.917729,91.29 c 23.27,4.46 47.47,22.07 66.290001,16.64 12.73,-3.68 26.54,-36.47 26.54,-41.34 v -0.5 c 0,-3.4 -2.55,-6.13 -6.88,-8.4 -17.75,-9.07 -21.11,-12.41 -27.690001,-10.6 -34.16,9.43 -94.4699998,4.61 -98.97999981,31.83 z"
+     style="fill:#380d09;fill-rule:evenodd"
+     id="path6" />
+  <path
+     d="m 0.19772919,145.5 c 1.85000001,2.59 17.44999981,7.36 40.71999981,12.38 26,4.74 48.61,20.19 67.440001,14.75 12.73,-3.68 25.39,-34.58 25.39,-39.46 v -0.48 c 0,-3.39 -2.55,-6.13 -6.88,-8.39 -13.54,-7.2 -31.430001,-15.13 -38.000001,-13.32 -34.22,9.41 -79.9599998,11.48 -88.66999981,34.52 z"
+     style="fill:#380d09;fill-rule:evenodd"
+     id="path7" />
+  <path
+     d="m 0.00772919,93.23 v 0.48 0 a 3.73,3.73 0 0 1 0,-0.48 z"
+     style="fill:#555555;fill-rule:evenodd"
+     id="path8" />
+  <path
+     d="M 108.30773,12.87 C 76.847729,21.96 26.937729,27.09 0.04772919,27.09 v 0 51.35 a 0.8,0.8 0 0 0 0.19,0.48 c 18.34999981,0 74.99999981,-6 109.18000081,-15.4 a 129,129 0 0 0 17.49,-5.81 c 4.18,-1.88 6.88,-3.86 6.88,-5.92 V 0 c -0.04,4.88 -12.75,9.2 -25.48,12.87 z"
+     style="fill:#de3423;fill-rule:evenodd"
+     id="path9" />
+  <path
+     d="m 108.30773,79.46 c -18.830001,5.43 -44.240001,9.47 -67.390001,11.83 -15.54,1.59 -30.06,2.42 -40.86999981,2.42 v 0 51.31 a 0.8,0.8 0 0 0 0.19,0.48 c 18.34999981,0 74.99999981,-6 109.18000081,-15.39 a 130.38,130.38 0 0 0 17.49,-5.81 c 4.18,-1.89 6.88,-3.86 6.88,-5.92 V 66.59 c -0.04,4.87 -12.75,9.19 -25.48,12.87 z"
+     style="fill:#de3423;fill-rule:evenodd"
+     id="path10" />
+  <path
+     d="m 108.30773,146.09 c -18.830001,5.43 -44.240001,9.46 -67.390001,11.83 -15.56,1.59 -30.1,2.42 -40.90999981,2.42 v 51.75 c 18.15999981,0 75.09999981,-5.95 109.37000081,-15.39 12.63,-3.48 24.37,-7.44 24.37,-11.74 v -51.79 c 0,4.92 -12.71,9.2 -25.44,12.92 z"
+     style="fill:#de3423;fill-rule:evenodd"
+     id="path11" />
+  <text
+     xml:space="preserve"
+     id="text11"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Logix;-inkscape-font-specification:'Logix, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect11);fill:#380d09;fill-opacity:1"
+     transform="matrix(18.187464,0,0,19.215795,-419.2284,-857.6974)"><tspan
+       x="30.580078"
+       y="54.0815"
+       id="tspan1">3</tspan></text>
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>scala-full-color</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
